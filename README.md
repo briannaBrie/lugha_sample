@@ -1,3 +1,3 @@
-# lugha_sample
+# JezikLugha
 
 A Croatian learning app
